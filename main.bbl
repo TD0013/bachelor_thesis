@@ -1,0 +1,85 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{kendall2007practical}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=KK}{%
+         family={Kendall},
+         familyi={K\bibinitperiod},
+         given={Kris},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=MC}{%
+         family={McMillan},
+         familyi={M\bibinitperiod},
+         given={Chad},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KKMC1}
+    \strng{fullhash}{KKMC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{booktitle}{Black Hat Conference, USA}
+    \field{pages}{10}
+    \field{title}{Practical malware analysis}
+    \field{year}{2007}
+  \endentry
+
+  \entry{cmu-malware}{article}{}
+    \name{author}{4}{}{%
+      {{hash=OK}{%
+         family={O’Meara},
+         familyi={O\bibinitperiod},
+         given={Kyle},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Shick},
+         familyi={S\bibinitperiod},
+         given={Deana},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Spring},
+         familyi={S\bibinitperiod},
+         given={Jonathan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SE}{%
+         family={Stoner},
+         familyi={S\bibinitperiod},
+         given={Edward},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{OK+1}
+    \strng{fullhash}{OKSDSJSE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{title}{Malware Capability Development Patterns Respond To Defenses:
+  Two Case Studies}
+    \field{year}{2016}
+  \endentry
+\enddatalist
+\endinput

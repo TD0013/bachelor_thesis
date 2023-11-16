@@ -74,7 +74,7 @@
 %-------------------------------------------------------------------------------
 % MARGINS
 %-------------------------------------------------------------------------------
-\usepackage{vmargin}
+\usepackage{Missing_Packages/vmargin}
 \setmarginsrb  { 1.0in}  % left margin
                { 0.6in}  % top margin
                { 1.0in}  % right margin
